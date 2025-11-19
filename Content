@@ -1,0 +1,15 @@
+Route
+Blade 
+Controller
+Model
+Database (Factory, Migration, Seeder)
+Query Builder
+Eloquent ORM
+Form Validation
+File Storage
+HTTP Redirects
+Middleware
+Authentication
+Authorization
+HTTP Responses
+Mail
